@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Music Auto Pause</string>
+    <string name="notification_text">Сервіс запущено у фоновому режимі</string>
+    <string name="author_ln">Створено <b>Daniil Krant</b></string>
+    <string name="start_service_button">Запустити сервіс</string>
+    <string name="stop_service_button">Зупинити сервіс</string>
+</resources>
